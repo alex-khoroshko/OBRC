@@ -1,0 +1,7 @@
+*.bak
+*.kicad_pcb-bak
+*.gbr
+*.drl
+gerber
+__pycache__
+*-cache.lib
